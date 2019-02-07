@@ -1,5 +1,5 @@
 # kafka-docker-instance
-using kafka docker instance to spin kafka consumer and producer with zookeeper 
+Following tutorial helps to spin a kafka consumer and producer with zookeeper (docker) 
 
 
 Pull repo from 
